@@ -26,6 +26,10 @@ body {
   border: 1px solid black;
 }
 
+.cell:hover {
+  background-color: rgb(71, 87, 236);
+}
+
 .win {
   background-color: rgba(2, 156, 41, 0.83);
 }
